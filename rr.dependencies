@@ -13,7 +13,7 @@
   },
   {
     "remote": "github",
-    "repository": "BeastRoms/platform_vendor_MiuiCamera",
+    "repository": "root2raj/vendor_MiuiCamera",
     "target_path": "vendor/MiuiCamera",
     "branch": "pie"
   },
