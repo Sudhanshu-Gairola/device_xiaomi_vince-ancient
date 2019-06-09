@@ -24,14 +24,14 @@ $(call inherit-product, vendor/MiuiCamera/config.mk)
 # Inherit from vince device
 $(call inherit-product, device/xiaomi/vince/device.mk)
 
-# Inherit some common RR stuff.
-$(call inherit-product, vendor/rr/config/common_full_phone.mk)
+# Inherit some common ZIRCONIUM stuff.
+$(call inherit-product, vendor/zirconium/config/common_full_phone.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1080
 
 # Device identifier
 PRODUCT_DEVICE := vince
-PRODUCT_NAME := rr_vince
+PRODUCT_NAME := zirconium_vince
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Redmi 5 Plus
 PRODUCT_MANUFACTURER := Xiaomi
