@@ -1,1 +1,1 @@
-add_lunch_combo zirconium_vince-userdebug
+add_lunch_combo cosp_vince-userdebug
