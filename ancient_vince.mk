@@ -25,7 +25,7 @@ $(call inherit-product, vendor/MiuiCamera/config.mk)
 $(call inherit-product, device/xiaomi/vince/device.mk)
 
 # Inherit some common ANCIENT stuff.
-$(call inherit-product, vendor/cosp/config/common.mk)
+$(call inherit-product, vendor/ancient/config/common.mk)
 
 TARGET_BOOT_ANIMATION_RES := 1080
 
