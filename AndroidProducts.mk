@@ -14,4 +14,4 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/cosp_vince.mk
+    $(LOCAL_DIR)/ancient_vince.mk
