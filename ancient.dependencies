@@ -1,9 +1,9 @@
 [
   {
     "remote": "github",
-    "repository": "rama982/android_kernel_xiaomi_vince-4.9",
+    "repository": "Sudhanshu-Gairola/kernel_xiaomi_msm8953-4.9",
     "target_path": "kernel/xiaomi/msm8953",
-    "branch": "pie"
+    "branch": "9.0"
   },
   {
     "remote": "github",
